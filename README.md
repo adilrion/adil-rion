@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# This is 'Adil Mahmoud Rion' Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site Link [Adil Mahmoud Rion](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## `Technology Used `[fdssdfsds](https://sdkfsdkfsdf.com)
 
 In the project directory, you can run:
 
